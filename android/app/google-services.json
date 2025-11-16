@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128052699444",
+    "project_id": "space-exploration-csc315",
+    "storage_bucket": "space-exploration-csc315.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128052699444:android:dd802ef07b6e395ef2c561",
+        "android_client_info": {
+          "package_name": "com.example.space_exploration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJZstwmvdbT1w7yc6d4g-FzU7fLM8DbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
