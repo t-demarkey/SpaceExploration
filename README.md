@@ -19,8 +19,6 @@ The Space Exploration App is built with Flutter and Firebase, combining educatio
 - **Backend:** Firebase Auth, Firestore, Cloud Functions  
 - **APIs & Services:** NASA APOD API, YouTube Player API, Geolocation Services
 
-## Screenshots
-*(Add your screenshots here)*
 
 ## Getting Started
 Clone the repo and run:
